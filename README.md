@@ -1,10 +1,9 @@
 - <h3>Hi I'm Muhammad Sufyan!👋</h3>
-
 - 👀  I'm diving into coding. Exploring the vast realm of technology.
 - 🌱 Venturing into Web development.Embarking on a journey of learning.
 - 💞️ Seeking collaboration with experts.Ready to learn and grow together.
 - 😄 Pronouns: Sufi.Identifying as Sufi, joyful and inclusive.
-- 📫 You can find me on
+- 📫 You can find me on:
 <ul>
 <ul dir="auto">
 <li><a href="https://x.com/SufyanR43011684?s=09" rel="nofollow">Twitter as @sufyanrajpoot3051</a></li>
