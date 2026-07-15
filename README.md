@@ -11,7 +11,7 @@
 <li><a href="https://github.com/Muhammad-Sufyan-3051">GitHub (you are here)</a></li>
 </ul>
 </ul>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Muhammad-Sufyan-3051&theme=dark)](https://github.com/Muhammad-Sufyan-3051)
 <!---
 Muhammad-Sufyan-3051/Muhammad-Sufyan-3051 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
