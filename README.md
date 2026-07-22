@@ -19,20 +19,11 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/Muhammad-Sufyan-3051" target="_blank">
-    <img src="https://shields.io" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-sufyan-734321247/" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/SufyanR43011684" target="_blank">
-    <img src="https://shields.io" alt="Twitter" />
-  </a>
-  <a href="mailto:sufyanrajpoot3051@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-</p>
+* **GitHub:** [@Muhammad-Sufyan-3051](https://github.com)
+* **LinkedIn:** [Muhammad Sufyan](https://linkedin.com)
+* **Twitter / X:** [@SufyanR43011684](https://x.com)
+* **Email:** [mr.sufyan21223@gmail.com](mailto:mr.sufyan21223@gmail.com)
+
 
 ---
 
