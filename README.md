@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web Developer from Pakistan</h3>
 
 <p align="center">
-  I love building projects, learning new technologies, and exploring the world of software development.
+  I love building projects, learning new technologies, and exploring the world of software development. Driven by curiosity, I'm always looking for innovative problems to solve and ways to turn ideas into clean, functional code.
 </p>
 
 ---
