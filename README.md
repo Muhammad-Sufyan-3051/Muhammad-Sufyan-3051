@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 - 🎓 Software Engineer graduate passionate about software development
-- 💻 Interested in Web Development and building real-world applications
+- 💻 Interested in Web Development and building real-world applications/projects
 - 🌱 Continuously learning new technologies and improving my skills
 - 🤝 Open to collaboration and new opportunities
 - 🚀 Looking forward to growing as a software developer
