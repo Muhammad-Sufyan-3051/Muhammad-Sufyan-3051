@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web Developer from Pakistan</h3>
 
 <p align="center">
-  I love building projects, learning new technologies, and exploring the world of software development. Driven by curiosity, I'm always looking for innovative problems to solve and ways to turn ideas into clean, functional code.
+  I am a passionate software developer driven by an insatiable curiosity for technology and a deep love for building impactful projects. I constantly strive to explore modern frameworks and emerging methodologies, turning complex ideas into clean, efficient, and highly functional code. For me, software development is more than just writing lines of code; it is about engineered problem-solving and creating innovative solutions that bridge the gap between user needs and technical excellence. I thrive in dynamic environments where continuous learning is key, and I am always looking forward to collaborating on challenging initiatives that push the boundaries of modern technology.
 </p>
 
 ---
